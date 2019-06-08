@@ -1,4 +1,4 @@
-package com.gkatzioura.caching.repository;
+package com.zerses.spring.caching.repository;
 
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.context.annotation.Profile;

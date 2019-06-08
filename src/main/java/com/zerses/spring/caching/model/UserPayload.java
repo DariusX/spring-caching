@@ -1,4 +1,4 @@
-package com.gkatzioura.caching.model;
+package com.zerses.spring.caching.model;
 
 import java.io.Serializable;
 

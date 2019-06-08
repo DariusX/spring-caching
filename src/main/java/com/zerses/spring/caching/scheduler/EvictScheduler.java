@@ -1,6 +1,6 @@
-package com.gkatzioura.caching.scheduler;
+package com.zerses.spring.caching.scheduler;
 
-import com.gkatzioura.caching.repository.LocalCacheEvict;
+import com.zerses.spring.caching.repository.LocalCacheEvict;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,3 +1,0 @@
-queue:
-  endpoint: http://localhost:9324
-  name: sample-queue
